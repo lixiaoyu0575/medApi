@@ -9,7 +9,7 @@
     "crypto": "0.0.3",
     "dotenv": "^2.0.0",
     "ejs": "^2.3.4",
-    "express": "^3.4.8",
+    "express": "^4.17.3",
     "express-jwt": "^3.4.0",
     "formidable": "^1.0.17",
     "jsonwebtoken": "^7.1.6",
